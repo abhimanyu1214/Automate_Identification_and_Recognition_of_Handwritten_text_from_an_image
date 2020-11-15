@@ -1,0 +1,1 @@
+# Automate_Identification_and_Recognition_of_Handwritten_text_from_an_image
